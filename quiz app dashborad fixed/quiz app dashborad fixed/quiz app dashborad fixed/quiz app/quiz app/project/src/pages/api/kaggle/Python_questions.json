@@ -1,0 +1,18 @@
+[
+    {
+      "id": "python-1",
+      "topic": "Python",
+      "question": "What is the output of print(type([]))?",
+      "correct_answer": "<class 'list'>",
+      "incorrect_answers": ["<class 'array'>", "<class 'tuple'>", "<class 'set'>"]
+    },
+    {
+      "id": "python-2",
+      "topic": "Python",
+      "question": "Which keyword is used to define a function in Python?",
+      "correct_answer": "def",
+      "incorrect_answers": ["function", "func", "define"]
+    }
+  
+  ]
+  
